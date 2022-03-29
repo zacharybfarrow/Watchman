@@ -19,3 +19,5 @@ exit()
     # update currentSite variable and keep running to look for changes in x minutes
 
 # run another thread that waits for user input to stop program
+
+# here is a teste change to learn how to commit to git
