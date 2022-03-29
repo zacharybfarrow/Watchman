@@ -20,4 +20,4 @@ exit()
 
 # run another thread that waits for user input to stop program
 
-# here is a teste change to learn how to commit to git
+# here is a test change to learn how to commit to git
