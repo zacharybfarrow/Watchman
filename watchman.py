@@ -1,7 +1,7 @@
 import time
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
-from lxml.html.diff import htmldiff
+# from lxml.html.diff import htmldiff
 
 url = "https://www.gran-turismo.com/us/gt7/news/"
 site = BeautifulSoup(urlopen(url), "html.parser")
