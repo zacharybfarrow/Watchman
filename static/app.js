@@ -9,10 +9,8 @@ const checkSite = () => {
     console.log("Checking the site")
     let data = {}
     data.url = siteAddress.value
-    console.log(data)
     if (lastCheck.length > 0) {
         data.currentSite = lastCheck;
-        console.log(data)
     }
     //if (lastCheck.length > 0) {
     //    data.currentSite = lastCheck;
@@ -26,12 +24,13 @@ const checkSite = () => {
     })
     // Parse data received
     .then((response) => {
+        console.log("Receiving data");
         return response.json();
     })
     .then((result) => {
         let changeDetected = result.changeDetected;
         changesFound = result.difference;
-        console.log(result.currentPage, changeDetected, changesFound)
+        console.log(result)
     })
 }
 
