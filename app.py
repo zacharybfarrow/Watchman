@@ -18,7 +18,7 @@ def check_site():
 
     # Unpack the arguments, deserialize json from front-end
     data = request.json
-    print(data)
+    print(f"Data Received: {data}")
 
     # TODO: convert JSON to a dict, later we can use 'if "currentPage" in keys', then we can make our comparison
 
@@ -31,7 +31,7 @@ def check_site():
     payload = { 'currentSite': 'the webpage as it is right now', 'changeDetected': True, 'changesFound': 'some new interesting stuff on your page'}
 
     # Return json data
-    print(payload); # Debug
+    print(f"Sending payload: {payload}"); # Debug
     return payload
 
 # for testing, use: http://www.reddit.com/r/all/new
