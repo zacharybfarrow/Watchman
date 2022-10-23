@@ -7,14 +7,13 @@ let changesFound;
 
 const checkSite = () => {
     console.log("Checking the site")
+    // Compile data for POST request
     let data = {}
     data.url = siteAddress.value
     if (lastCheck.length > 0) {
         data.currentSite = lastCheck;
     }
-    //if (lastCheck.length > 0) {
-    //    data.currentSite = lastCheck;
-    //}
+    // Access backend API to check site for differences
     fetch("/check_site", {
         method: "POST",
         body: JSON.stringify(data),
@@ -27,6 +26,7 @@ const checkSite = () => {
         console.log("Receiving data");
         return response.json();
     })
+    // Do stuff with our new data
     .then((result) => {
         let changeDetected = result.changeDetected;
         changesFound = result.difference;
