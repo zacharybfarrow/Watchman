@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Watchman</title>
+    <link rel="stylesheet" href="static/style.css">
+  </head>
+  <body>
+    <div>
+        <form action="" method="post">
+          <div>
+            <input type="text" id="siteAddress">
+          </div>
+          <div>
+            <label for="minutes">How often?</label>
+            <select id="minutes" name="minutes">
+              <option value="60000">Every 1 Minute</option>
+              <option value="300000">Every 5 Minutes</option>
+              <option value="600000">Every 10 Minutes</option>
+            </select>
+          </div>
+          <div>
+            <button type="button" id="submit">Check Site</button>
+          </div>
+        </form>
+    </div>
+	<script src="static/app.js"></script>
+  </body>
+</html>
