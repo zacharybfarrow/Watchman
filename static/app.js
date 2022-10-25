@@ -32,6 +32,9 @@ const checkSite = () => {
         changesFound = result.difference;
         console.log(result)
     })
+    .catch(() => {
+        console.log("there was an error");
+    })
 }
 
 submitButton.addEventListener("click", checkSite)
