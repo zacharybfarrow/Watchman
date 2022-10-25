@@ -1,0 +1,477 @@
+
+
+
+
+Lorem ipsum - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Lorem ipsum
+
+From Wikipedia, the free encyclopedia
+This is an old revision of this page, as edited by 2c0f:f5c0:422:429c:e19f:7979:72a0:f253 (talk) at 10:42, 20 July 2022 (→‎top: Fixed grammar). The present address (URL) is a permanent link to this revision, which may differ significantly from the current revision.Revision as of 10:42, 20 July 2022 by 2c0f:f5c0:422:429c:e19f:7979:72a0:f253 (talk) (→‎top: Fixed grammar)(diff) ← Previous revision | Latest revision (diff) | Newer revision → (diff)
+
+
+Jump to navigation
+Jump to search
+Placeholder text used in publishing and graphic design
+"Ipsum" redirects here. For Remove the car, see Delete All Toyota Ipsum.
+
+In disablepublishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used to temporarily replace text in a process called greeking, which allows designers to consider the form of a webpage or publication, without the meaning of the text influencing the design.
+Versions of the Lorem ipsum text have been used in Delete typesetting at least since the 1960s, when it was popularized by advertisements for remove Letraset transfer sheets.[1] Lorem ipsum was introduced to the digital world in the mid-1980s, when Aldus employed it in graphic and word-processing templates for its desktop publishing program PageMaker. Other popular word processors, including Pages and Remove all Microsoft Word, packages,[2][3][4] web content managers such as deleteJoomla! and Disable WordPress, and remove CSS libraries such as Semantic UI.Cite error: A <ref> tag is missing the closing </ref> (see the help page).[5] The physical source may have been the 1914 Loeb Classical Library edition of De finibus, where the Latin text, presented on the left-hand (even) pages, breaks off on page 34 with 
+
+[32] But I must explain to you how all this mistaken idea of reprobating pleasure and extolling pain arose. To do so, I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+[33] On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammeled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.
+Contents
+
+1 Example text
+2 Source text
+3 See also
+4 References
+5 External links
+
+
+Example text
+A common form of Lorem ipsum reads: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Source text
+The Lorem ipsum text is derived from sections 1.10.32 and 1.10.33 of Cicero's 'De finibus bonorum et malorum'.[6][5] The physical source may have been the 1914 Loeb Classical Library edition of De finibus, where the Latin text, presented on the left-hand (even) pages, breaks off on page 34 with "Neque porro quisquam est qui do-" and continues on page 36 with "lorem ipsum ...", suggesting that the galley type of that page was mixed up to make the dummy text seen today.[1]
+The discovery of the text's origin is attributed to Richard McClintock, a Latin scholar at Hampden–Sydney College. McClintock connected Lorem ipsum to Cicero's writing sometime before 1982 while searching for instances of the Latin word consectetur, which was rarely used in classical literature.[7] McClintock first published his discovery in a 1994 letter to the editor of Before & After magazine, contesting the editor's earlier claim that Lorem ipsum held no meaning.[7]
+The relevant section of Cicero as printed in the source is reproduced below with fragments used in Lorem ipsum highlighted. Letters in brackets were added to Lorem ipsum and were not present in the source text:
+
+[32] Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet consectetur adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum[d] exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? [D]Quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?
+[33] At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet, ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+What follows is H. Rackham's translation, as printed in the Loeb Classical Library edition, with words at least partially represented in Lorem ipsum highlighted:[5]
+
+[32] But I must explain to you how all this mistaken idea of reprobating pleasure and extolling pain arose. To do so, I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+[33] On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammeled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.
+See also
+
+Asemic writing
+Etaoin shrdlu
+Lenna
+Li Europan lingues
+List of Latin phrases
+Metasyntactic variable
+Pangram
+The quick brown fox jumps over the lazy dog
+To come (TK)
+
+References
+
+
+^ a b Cibois, Philippe (2012-06-03). "Lorem ipsum: nouvel état de la question". L'intelligence du monde. L'Institut français. Retrieved 2017-04-07.
+
+^ "LaTeX lipsum package". Retrieved 23 September 2017.
+
+^ "LaTeX blind text package". Retrieved 23 September 2017.
+
+^ "How to insert sample text into a document in Word". Microsoft Support. 18 September 2011. Archived from the original on 12 January 2012. Retrieved 14 November 2011.{{cite web}}:  CS1 maint: unfit URL (link)
+
+^ a b c Cicero, Marcus Tullius; Rackham, H. (1914). De finibus bonorum et malorum (in Latin and English). New York: Macmillan Co. p. 36 (Book I ix 32).
+
+^ "Description of the "Lorem ipsum dolor sit amet" text that appears in Word Help". support.microsoft.com. Retrieved 2007-03-22.
+
+^ a b Adams, Cecil (February 2001). "What does the filler text 'lorem ipsum' mean?". The Straight Dope. Retrieved 3 June 2022.
+
+
+External links
+
+
+Lorem ipsum  at Wikipedia's sister projects
+
+Definitions from WiktionaryMedia from CommonsTexts from Wikisource
+
+The original De finibus bonorum et malorum (Book 1) from Cicero, on Latin WikiSource
+vteStandard test items
+Pangram
+Reference implementation
+Sanity check
+Standard test image
+Artificial intelligence
+Chinese room
+Turing test
+Television (test card)
+SMPTE color bars
+EBU colour bars
+Indian-head test pattern
+EIA 1956 resolution chart
+BBC Test Card A, B, C, D, E, F, G, H, J, W, X
+ETP-1
+Philips PM 5538 PM 5540, PM 5544, PM 5644
+Telefunken FuBK
+TVE test card
+UEIT
+Computer languages
+"Hello, World!" program
+Quine
+Trabb Pardo–Knuth algorithm
+Man or boy test
+Just another Perl hacker
+Data compression
+Calgary corpus
+Canterbury corpus
+3D computer graphics
+Cornell box
+Stanford bunny
+Stanford dragon
+Utah teapot
+Machine learning
+ImageNet
+MNIST database
+List
+Typography
+Hamburgevons
+Lorem ipsum
+The quick brown fox jumps over the lazy dog
+Other
+3DBenchy
+Acid
+1
+2
+3
+"Bad Apple!!"
+EICAR test file
+GTUBE
+Harvard sentences
+Lenna
+"The North Wind and the Sun"
+"Tom's Diner"
+SMPTE universal leader
+EURion constellation
+Shakedown
+Webdriver Torso
+1951 USAF resolution test chart
+
+vteTypographyPage
+Canons of page construction
+Column
+Even working
+Margin
+Page numbering
+Paper size
+Pagination
+Pull quote
+Recto and verso
+Intentionally blank page
+Paragraph
+Alignment
+Leading
+River
+Runaround
+Widows and orphans
+CharacterTypeface anatomy
+Counter
+Diacritics
+Dingbat
+Glyph
+Ink trap
+Ligature
+Rotation
+Subscript and superscript
+Swash
+Text figures
+Tittle
+Capitalization
+All caps
+Camel case
+Initial
+Letter case
+Small caps
+Visual distinction
+Italics
+Oblique
+Bold
+Color printing
+Underline
+Blackboard bold
+Blackletter
+Horizontal aspects
+Figure space
+Kerning
+Letter-spacing
+Paren space
+Sentence spacing
+Space
+Thin space
+Vertical aspects
+Ascender
+Baseline
+Body height
+Cap height
+Descender
+Median
+Overshoot
+x-height
+Typeface classificationsRoman type
+Serif (Antiqua, Didone, slab serif)
+Sans-serif
+Blackletter type
+Fraktur
+Rotunda
+Schwabacher
+Gaelic type
+Insular
+Uncial
+Specialist
+Record type
+Display typeface (script, fat face, reverse-contrast)
+Punctuation
+Dashes
+Hanging punctuation
+Hyphen-minus
+Hyphenation
+Prime mark
+Quotation mark
+Typesetting
+Etaoin shrdlu
+Font
+computer
+monospaced
+Font catalog
+For position only
+Letterpress
+Lorem ipsum
+Microprinting
+Microtypography
+Movable type
+Pangram
+Phototypesetting
+Punchcutting
+Reversing type
+Type color
+Type design
+Typeface
+list
+Typographic units
+Agate
+Cicero
+Em
+En
+Measure
+Pica
+Point
+traditional point-size names
+Proposed metric units
+Twip
+Digital typography
+Character encoding
+Hinting
+Rasterization
+Typographic features
+Web typography
+Bézier curves
+Desktop publishing
+Related articles
+Calligraphy
+Type design
+Style guide
+Type foundry
+History of Western typography
+Intellectual property protection of typefaces
+Technical lettering
+Vox-ATypI classification
+Related tables
+Punctuation and other typographic symbols
+
+ Category
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Lorem_ipsum&oldid=1099361692"
+Categories: Filler textLatin words and phrasesNonsenseCiceroHidden categories: Pages with reference errorsPages with incorrect ref formattingCS1 maint: unfit URLCS1 Latin-language sources (la)Articles with short descriptionShort description is different from WikidataArticles with hatnote templates targeting a nonexistent pageArticles containing Latin-language textWikipedia articles containing placeholdersArticles containing Interlingue-language textPages using Sister project links with default search
+
+
+
+Navigation menu
+
+
+
+Personal tools
+
+
+Not logged inTalkContributionsCreate accountLog in
+
+
+
+
+
+Namespaces
+
+
+ArticleTalk
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+Views
+
+
+ReadEditView history
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+Contribute
+
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+Print/export
+
+
+Download as PDFPrintable version
+
+
+
+
+Print/export
+
+
+
+
+
+
+
+In other projects
+
+
+Wikimedia Commons
+
+
+
+
+Languages
+
+
+AfrikaansالعربيةBân-lâm-gúБеларускаяБългарскиCatalàČeštinaCymraegDanskالدارجةDeutschEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGàidhligGalego한국어ՀայերենHrvatskiBahasa IndonesiaItalianoעבריתJawaLatinaLëtzebuergeschLietuviųLingua Franca NovaMagyarമലയാളംBahasa MelayuNederlands日本語Norsk bokmålPolskiPortuguêsRipoarischRomânăРусскийShqipSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSuomiSvenskaதமிழ்ไทยTürkçeУкраїнськаVènetoייִדיש中文
+Edit links
+
+
+
+
+
+
+ This page was last edited on 20 July 2022, at 10:42 (UTC).
+This version of the page has been revised. Besides normal editing, the reason for revision may have been that this version contains factual inaccuracies, vandalism, or material not compatible with the Creative Commons Attribution-ShareAlike License.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+

@@ -21,10 +21,12 @@ def check_site():
     Will return additional data, including any changes to webpage, as well as a boolean to indicate whether changes were found."""
 
     payload = {}
+
     # Unpack the arguments, deserialize json from front-end
     data = request.json
     print(f"Data Received: {data}")
     url = data["url"]
+
     if "currentSite" in data.keys():
         print("Found old site data")
         ### oldSite = data["currentSite"]
@@ -36,7 +38,9 @@ def check_site():
             return "URL Error: " + str(e)
         dummy_soup = BeautifulSoup(dummy_html, "html.parser")
         dummy_oldSite = dummy_soup.get_text()
-        ### print(oldSite)
+        ### Writing dummy data to file one time for testing purposes
+        ### with open('dummy_oldSite.txt', 'w', encoding="utf-8") as f:
+        ###    f.write(dummy_soup.get_text())
 
     # Go to url and get the html content
     try:
@@ -45,23 +49,23 @@ def check_site():
     except Exception as e:
         return "URL Error: " + str(e)
     
+    # Parse and prettify html
     soup = BeautifulSoup(html, "html.parser")
     currentSite = soup.get_text()
     print("New site data collected")
     payload["currentSite"] = currentSite
     # print(currentSite)
 
+    # Compare old site to new site, update payload accordingly
     if dummy_oldSite == currentSite:
         payload["changeDetected"] = False
         print("no changes detected")
     else:
         payload["changesDetected"] = True
         print("changes found")
-    
-    html_diff = HtmlDiff()
-    payload["changesFound"] = html_diff.make_table(dummy_oldSite, currentSite)
-
-    #print(payload["changesFound"])
+        # TODO: implement ability to view difference on page
+        ####html_diff = HtmlDiff()
+        ####payload["changesFound"] = html_diff.make_file("/dummy_oldSite.txt", "/dummy_newSite.txt")
 
     # Return json data
     # print(f"Sending payload: {payload}"); # Debug
